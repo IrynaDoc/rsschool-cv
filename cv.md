@@ -3,6 +3,7 @@
 ## Contacts:
 + Phone: +37529 706 16 26
 + E-mail: IT.iradzenisevich@gmail.com
++ Additional e-mail: iradzenisevich@gmail.com 
 + Instagram: @denisevich.irina
 + Discord: Iryna Dzen (@IrynaDoc)
 ## Briefly about myself:
