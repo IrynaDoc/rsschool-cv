@@ -23,7 +23,7 @@ responsible, punctual, well-mannered, well-organized. I like travelling, improvi
 + VS Code
 + Figma
 + MS Office (Word, Excel, PowerPoint)
-## Cources:
+## Courses:
 + Udemy course: Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtmann
 + Udemy course: Web Design for Web Developers: Build Beautiful Websites! by Jonas Schmedtmann
 + Udemy course: The Complete JavaScript Course 2023: From Zero to Expert! by Jonas Schmedtmann (in progress)
