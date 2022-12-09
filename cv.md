@@ -31,7 +31,7 @@ responsible, punctual, well-mannered, well-organized. I like travelling, improvi
 ## Languages:
 + English – Pre-Intermediate/Intermediate (A2/B1)
 + Russian - Native
-+ Belarussian - Native
++ Belarussian - Basic
 
 
 
